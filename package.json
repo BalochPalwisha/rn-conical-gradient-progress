@@ -1,11 +1,11 @@
 {
   "name": "rn-conical-gradient-progress",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native component for creating animated, conical gradient progress with react-native-svg",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://github.com/MikePodgorniy/react-native-conical-gradient-progress"
+    "url": "git+ssh://github.com/BalochPalwisha/rn-conical-gradient-progress"
   },
   "keywords": [
     "react",
@@ -19,13 +19,13 @@
   ],
   "author": {
     "name": "Mike Podgorniy",
-    "url": "https://github.com/MikePodgorniy"
+    "url": "https://github.com/BalochPalwisha"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MikePodgorniy/react-native-conical-gradient-progress/issues"
   },
-  "homepage": "https://github.com/MikePodgorniy/react-native-conical-gradient-progress",
+  "homepage": "https://github.com/BalochPalwisha/rn-conical-gradient-progress",
   "dependencies": {
     "color-convert": "^1.9.3",
     "d3-shape": "^1.2.2",
