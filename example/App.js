@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
-import AnimatedCircularProgress from 'react-native-conical-gradient-progress';
+import AnimatedCircularProgress from 'rn-conical-gradient-progress';
 
 export default class App extends React.Component {
   constructor(props) {

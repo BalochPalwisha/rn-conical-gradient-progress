@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { View, ViewPropTypes } from 'react-native';
+import { View } from 'react-native';
 import Svg, { Defs, Stop, G, Path, LinearGradient, Circle } from 'react-native-svg';
 import { arc } from 'd3-shape';
 import range from 'lodash/range';
 import convert from 'color-convert';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 
 function calculateStopColor(i, beginColor, endColor, segments) {
   return [

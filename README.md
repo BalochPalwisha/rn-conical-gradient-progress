@@ -1,10 +1,14 @@
-# react-native-conical-gradient-progress
+# rn-conical-gradient-progress
 
-:sunrise:
+:pencil2: Attempt to fix the following error in latest RN version.
+
+:bangbang: Invariant Violation: ViewPropTypes has been removed from React Native. Migrate to ViewPropTypes exported from 'deprecated-react-native-prop-types'
+
+
 ## Installation
 Install this component and `react-native-svg`:
 
-`npm i --save react-native-conical-gradient-progress react-native-svg`
+`npm i --save rn-conical-gradient-progress react-native-svg`
 
 Link native code for SVG:
 

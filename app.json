@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "react-native-conical-gradient-progress",
+    "name": "rn-conical-gradient-progress",
     "description": "This project is really great.",
-    "slug": "react-native-conical-gradient-progress",
+    "slug": "rn-conical-gradient-progress",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": [
